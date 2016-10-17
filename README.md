@@ -23,5 +23,4 @@ This program involves –
   
 
 ## Article Link:
-
-Will be available very soon
+<a href="http://abhipso.com/Articles/Sending_free_sms_using_python/">http://abhipso.com/Articles/Sending_free_sms_using_python/</a>
